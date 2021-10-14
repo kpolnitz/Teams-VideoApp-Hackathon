@@ -6,10 +6,10 @@
   "id": "b15f97b7-1f9b-4bb7-ac9f-efddf27aae7b",
   "packageName": "com.microsoft.teams.videopp",
   "developer": {
-    "name": "Richa",
-    "websiteUrl": "https://richa008.github.io/Teams-VideoApp-Hackathon",
-    "privacyUrl": "https://richa008.github.io/Teams-VideoApp-Hackathon",
-    "termsOfUseUrl": "https://richa008.github.io/Teams-VideoApp-Hackathon"
+    "name": "Kaela",
+    "websiteUrl": "https://kpolnitz.github.io/Teams-VideoApp-Hackathon",
+    "privacyUrl": "https://kpolnitz.github.io/Teams-VideoApp-Hackathon",
+    "termsOfUseUrl": "https://kpolnitz.github.io/Teams-VideoApp-Hackathon"
   },
   "icons": {
     "color": "icon-color.png",
@@ -39,7 +39,7 @@
       ]
     }
   },
-  "validDomains": ["richa008.github.io"],
+  "validDomains": ["kpolnitz.github.io"],
   "localizationInfo": {
     "defaultLanguageTag": "en-us"
   },
@@ -66,6 +66,6 @@
         "thumbnail": "half.png"
       }
     ],
-    "videoAppContentUrl": "https://richa008.github.io/Teams-VideoApp-Hackathon/app/index.html"
+    "videoAppContentUrl": "https://kpolnitz.github.io/Teams-VideoApp-Hackathon/app/index.html"
   }
 }
