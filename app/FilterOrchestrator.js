@@ -61,6 +61,8 @@ class FilterOrchestrator {
         this.filter = new DarkenEdgesFilter();
       } else if (effect === "1e758bc1-63ca-422d-a0c0-55dfe655adf2") {
         this.filter = new SmoothneesFilter();
+      } else if (effect === "99a2b5cc-3aaa-4900-b0da-2b1b3186bd5b") {
+        this.filter = new SomeFilter();
       }
       this.currentEffect = effect;
     }
