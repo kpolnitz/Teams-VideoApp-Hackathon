@@ -64,6 +64,11 @@
         "id": "1e758bc1-63ca-422d-a0c0-55dfe655adf2",
         "name": "Smoothen",
         "thumbnail": "half.png"
+      },
+      {
+        "id": "99a2b5cc-3aaa-4900-b0da-2b1b3186bd5b",
+        "name": "SomeFilter",
+        "thumbnail": "half.png"
       }
     ],
     "videoAppContentUrl": "https://kpolnitz.github.io/Teams-VideoApp-Hackathon/app/index.html"
